@@ -37,7 +37,7 @@ pandas
 scanpy
 anndata
 ```
-For specific setting, please see <a href="https://github.com/yyj971117/DeepTGI/tree/main/DeepTGI/environment.yml">requirement</a>.
+For specific setting, please see <a href="https://github.com/yyj971117/DeepTGI/blob/main/environment.yml">requirement</a>.
 
 # Installation Guide
 ```
