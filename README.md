@@ -47,6 +47,6 @@ $ conda activate deepTGI
 $ conda env create -f environment.yml
 ```
 # Detailed tutorials with example datasets
-`DeepTGI` is an optimal transport-based autoencoder model for single-cell imputation, which can be used for single-cell data imputation. 
+`DeepTGI` is a deep learning framework that utilizes autoencoders and multi-head attention mechanisms to accurately identify interactions between transcription factors and genes and infer gene regulatory networks.
 The example can be seen in the <a href="https://github.com/yyj971117/DeepTGI/tree/main/DeepTGI/program/main.py">main.py</a>.
 
